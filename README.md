@@ -21,14 +21,13 @@
 
 8.  WASS to take a file name. Check its permission. If available append your name to the end of it.
 
-9.  WASS to accept file name as input. If the i/p name is a file, add some data to the file, else if it is a directory create a file in that directory and add data to the
-    file.
+9.  WASS to accept file name as input. If the i/p name is a file, add some data to the file, else if it is a directory create a file in that directory and add data to the file.
 
 10. WASS to convert Decimal to Binary, Octal & HexaDecimal using control statement.
 
 11. WASS to convert a given number from an user entered base to user entered another base.
 
-12. WASS to check for login status of username as i/p for 5 Minutes after an interval of 1 minute each.
+12. WASS to check for login status of username as i/p for 5 Minutes after an interval of 1 minute each.*******
 
 13. WASS to check whether the input year is a leap year or not.
 
@@ -48,7 +47,7 @@
 
 21. WASS to convert Decimal to Binary without using ibase or obase.
 
-22. WASS to enter no. of filenames. If even no. entered, then i/p files according to the number and copy contents of odd no. files into even no. files. Else display invalid i/p.
+22. WASS to enter no. of filenames. If even no. entered, then copy contents of odd no. files into even no. files. Else display invalid i/p.
 
 23. WASS to cut n lines from a position m without using head and tail commands and show the cut lines as o/p.
 
